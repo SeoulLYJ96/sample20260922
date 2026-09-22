@@ -1,7 +1,7 @@
 # This is a Declarative Automation Bundle definition for dbx_bundle_20260922.
 # See https://docs.databricks.com/dev-tools/bundles/index.html for documentation.
 bundle:
-  name: dbx_bundle_20260922
+  name: dbx_free
   uuid: c2d140ce-1b18-48b6-92a4-459949f6cfc3
 
 include:
